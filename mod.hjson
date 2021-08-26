@@ -1,1 +1,7 @@
-
+name: "maid-poly"
+displayName: "Maid Poly"
+author: Antlrr
+description: "makes Poly wear a Maid outfit"
+version: "1.0"
+minGameVersion: "130"
+hidden: true
